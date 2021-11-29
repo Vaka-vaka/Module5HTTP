@@ -1,5 +1,3 @@
-
-*.java
 .mtj.tmp/
 *.class
 *.jar
